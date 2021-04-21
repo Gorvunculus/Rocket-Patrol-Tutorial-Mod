@@ -1,5 +1,7 @@
-//TODO
 /*
+Willow Tschudy
+Rocket Patrol Plus
+Took roughly  10 hours to complete.
 MOD POINTS:
 Display timer that counts down from time remaining: 10
 Added a persistant highscore feature: 5
